@@ -6,8 +6,8 @@ X Education is an online education company that sells courses to industry profes
 The objective is to build a model that assigns a lead score to each lead, indicating the likelihood of conversion into a paying customer. This lead scoring model will help the sales team prioritize their efforts and focus on communicating with the leads that have a higher chance of conversion. Ultimately, this should improve the lead conversion rate and make the lead generation process more efficient.
 
 ## Files Submitted
-- Python commented file
-- Word File: All the questions asked by the company in the word document provided.
-- Presentation
-- PDF File: Summary
+- Python commented file (Jupyter Notebook)
+- Word File: All the questions asked by the company in the word document provided. (In PDF Format)
+- Presentation (In PDF Format)
+- PDF File: Summary (In PDF Format)
 
